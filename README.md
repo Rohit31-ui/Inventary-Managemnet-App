@@ -277,11 +277,6 @@ Inventory-Management-System/
 * **Environment Config:** dotenv
 * **Testing Tool:** Postman
 
----
-
-## 🔗 GitHub Repository
-
-👉 [Inventory Management Backend](https://github.com/Rohit31-ui/Inventory-Management-Backend)
 
 ---
 
